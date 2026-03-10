@@ -1,0 +1,38 @@
+E.D.I.T.H. Source-Available License
+
+Copyright (c) 2026 E.D.I.T.H. Project Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, and merge the Software for personal, educational, or internal
+research purposes, subject to the following conditions:
+
+1. NON-COMMERCIAL USE ONLY. The Software, or any derivative work based on the
+   Software, may NOT be sold, sublicensed, leased, or otherwise commercially
+   distributed for profit. This includes but is not limited to: selling the
+   Software as a product, offering it as a paid service, or bundling it within
+   a commercially sold product.
+
+2. NO REPUBLICATION AS YOUR OWN. You may not publish, distribute, or present
+   the Software or substantial portions of it as your own original work. Forks
+   and modifications must retain this license and provide clear attribution to
+   the original E.D.I.T.H. project.
+
+3. ATTRIBUTION. All copies or substantial portions of the Software must
+   include this license notice and the above copyright notice.
+
+4. MODIFICATIONS WELCOME. You are free to modify, adapt, and build upon the
+   Software for your own use. Sharing modifications with the community
+   (e.g., via pull requests) is encouraged but not required.
+
+5. NO WARRANTY. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+   OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+   USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. API KEYS. This software requires third-party API keys (OpenAI, Google,
+   etc.) which are the user's responsibility to obtain. The authors provide
+   no API keys and assume no liability for API usage costs.
